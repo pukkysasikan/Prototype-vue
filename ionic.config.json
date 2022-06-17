@@ -1,0 +1,7 @@
+{
+  "name": "vuedemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
